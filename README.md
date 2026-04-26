@@ -29,12 +29,12 @@ Principios rectores para que cada sector de la sociedad encuentre su lugar en es
 4. **Dignidad del Productor:** Valen lo mismo el que trabaja con las manos, la tierra o el código.
 5. **Derecho al Dato:** Gestionar lo digital es un derecho y un deber ciudadano.
 6. **Colaboración Abierta:** Ayudarnos entre todos nos hace más fuertes; sistemas que se hablen entre sí.
-7. **Vocación de Servicio:** El técnico está para servir al vecino, no para lucirse.
+7. **Vocación de Servicio:** El técnico está para servir a cada persona, no para lucirse.
 8. **Escala de Prioridades:** Primero la Patria, después el sistema, al final nosotros mismos.
 9. **Herramienta de Bienestar:** El dato sirve para cuidar a la gente y vigilar la salud del ecosistema.
 10. **Humanismo Técnico:** Nuestros dos brazos son la inclusión digital y la pureza ambiental.
 11. **Transparencia Algorítmica:** Sistemas justos y claros para que nadie sea discriminado ni olvidado.
-12. **Ciencia Nacional:** Inventar acá para que la Nación crezca y su territorio se sane.
+12. **Ciencia Nacional:** Inventamos y desarrollamos para que la Argentina crezca y nuestra tierra se sane.
 13. **Estado Organizado:** Un Estado digital eficiente es la garantía de un pueblo libre.
 14. **Doctrina de Código Libre:** Programas libres para una libertad técnica y ambiental eterna.
 15. **Equilibrio Social:** Tu privacidad es sagrada, igual que la seguridad de toda la comunidad.
@@ -47,7 +47,7 @@ Principios rectores para que cada sector de la sociedad encuentre su lugar en es
 ---
 
 ##  Registro Histórico
-Este documento no posee firmas individuales, pues pertenece a la voluntad colectiva del pueblo argentino.
+Este documento no posee firmas individuales, pertenece a la voluntad colectiva del pueblo argentino.
 
 | Fecha | Evento | Estado |
 | :--- | :--- | :--- |
