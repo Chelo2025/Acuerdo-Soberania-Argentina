@@ -2,7 +2,9 @@
 ### "Código, Tierra y Trabajo"
 
 > **Fecha de Lanzamiento:** 25 de abril de 2026
+> 
 > **Origen:** Publicación Abierta en GitHub (Territorio Digital Argentino)
+> 
 > **Carácter:** Acta fundacional colectiva para la independencia tecnológica y territorial.
 
 ---
